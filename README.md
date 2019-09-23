@@ -4,4 +4,4 @@ Uses python file and VTK to render shape to image
 To Run:
 
 
-xvfb-run --server-args="-screen 0 1024x768x24" python3 write-image.py
+xvfb-run --server-args="-screen 0 1024x768x24" pvpython write-image.py
